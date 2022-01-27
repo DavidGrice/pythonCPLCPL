@@ -1,0 +1,4 @@
+Pig|This little piggy went to the market
+Cow|The cow says moo
+Otter|The otter goes orf orf orf
+Dog|The dog goes goff goff or bark bark
